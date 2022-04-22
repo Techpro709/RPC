@@ -1,0 +1,24 @@
+{
+  "name": "techpro-rpc",
+  "version": "1.0.0",
+  "description": "The Discord Custom RPC has 2 buttons that you can define yourself. You can run this code using your Visual Studio code or your cmd console. You can open the cmd console by simply going to the folder where the index.js file is located, then click on the line at the top where the file path is displayed and replace the file path with \"cmd\" and press enter. Then a window opens with the console in which you then only \"node .\" and if then the message \"Custom Discord Rp is online\" comes you have done everything right.",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techpro709/RPC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techpro709/RPC/issues"
+  },
+  "homepage": "https://github.com/Techpro709/RPC#readme"
+}
